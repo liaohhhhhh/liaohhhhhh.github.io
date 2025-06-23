@@ -54,3 +54,15 @@ I’m currently a Ph.D. student at the School of Integrated Circuits (School of 
 <span id='-internships'></span>
 # 💻 Internships
 -*2024.04 - present*, Shanghai Artificial Intelligence Laboratory
+
+<!-- Footer Section -->
+
+<footer>
+  <div style="text-align: center; padding: 20px; background-color: #f1f1f1;">
+    <p><strong>Contact:</strong> <a href="mailto:liao20160907@sjtu.edu.cn">liao20160907@sjtu.edu.cn</a></p>
+    <p>
+      <a href="https://scholar.google.com/citations?user=ErjimggAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> | 
+      <a href="https://github.com/liaohhhhhh" target="_blank">GitHub</a> | 
+    </p>
+  </div>
+</footer>
