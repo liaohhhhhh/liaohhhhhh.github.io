@@ -18,7 +18,7 @@ smooth_scroll: true
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently a Ph.D. student at the School of Integrated Circuits (School of Information Science and Electronic Engineering), Shanghai Jiao Tong University, under the supervision of <a href="https://yuwangsjtu.github.io/" target="_blank">Assoc. Prof. Yu Wang</a>. I received my B.E. in Information Engineering from the School of Electronic Information and Electrical Engineering, also at Shanghai Jiao Tong University.
+I’m currently a Ph.D. student at the School of Integrated Circuits (School of Information Science and Electronic Engineering), Shanghai Jiao Tong University, under the supervision of <a href="https://yuwangsjtu.github.io/" target="_blank">Assoc. Prof. Yu Wang (王钰)</a>. I received my B.E. in Information Engineering from the School of Electronic Information and Electrical Engineering, also at Shanghai Jiao Tong University.
 
 🔬 I’m passionate about combining AI with real-world applications, especially in medical and clinical domains. My research focuses on:
 
