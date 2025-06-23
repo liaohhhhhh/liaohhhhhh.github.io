@@ -34,7 +34,7 @@ I’m currently a Ph.D. student at the School of Integrated Circuits (School of 
 
 <span id='-publications'></span>
 # 📝 Publications 
-- [ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents](https://arxiv.org/pdf/2410.17657), **Yu Liao**, S Jiang, Y Wang, Y Wang, **ACL 2025**
+- [ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents](https://arxiv.org/pdf/2410.17657), **Yusheng Liao**, S Jiang, Y Wang, Y Wang, **ACL 2025**
 - EvolveBench: A Comprehensive Benchmark for Assessing Temporal Awareness in LLMs on Evolving Knowledge, Z Zhu, **Yusheng Liao**, Z Chen, Y Wang, Y Guan, Y Wang, Y Wang, **ACL 2025**
 - [Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications](https://arxiv.org/pdf/2501.02460), Z Chen, **Yusheng Liao**, S Jiang, P Wang, Y Guo, Y Wang, Y Wang, **ACL 2025**
 - [Fine-tuning with Reserved Majority for Noise Reduction](https://openreview.net/pdf?id=ZV7CLf0RHK), S Jiang, **Yusheng Liao**, Y Zhang, Y Wang, Y Wang, **ICLR 2025**
