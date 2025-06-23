@@ -27,11 +27,11 @@ I’m currently a Ph.D. student at the School of Integrated Circuits (School of 
 
 📚 You can find my publications on <a href="https://scholar.google.com/citations?user=ErjimggAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>.
 
-<span class='anchor' id='news'></span>
+<span id='news'></span>
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Three papers accepted by ACL 2025 Main Conference!
 
-<span class='anchor' id='publications'></span>
+<span id='publications'></span>
 # 📝 Publications 
 - [ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents](https://arxiv.org/pdf/2410.17657), **Yu Liao**, S Jiang, Y Wang, Y Wang, **ACL 2025**
 - EvolveBench: A Comprehensive Benchmark for Assessing Temporal Awareness in LLMs on Evolving Knowledge, Z Zhu, **Yusheng Liao**, Z Chen, Y Wang, Y Guan, Y Wang, Y Wang, **ACL 2025**
@@ -41,11 +41,11 @@ I’m currently a Ph.D. student at the School of Integrated Circuits (School of 
 - [TAIA: Large Language Models are Out-of-Distribution Data Learners](https://openreview.net/pdf?id=XxSME6GE1G), S Jiang, **Yusheng Liao**, Y Zhang, Y Wang, Y Wang, **NeurIPS 2024**
 - [Leveraging Diverse Modeling Contexts with Collaborating Learning for Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/10476658), **Yusheng Liao**, Y Wang, Y Wang, **IEEE/ACM TASLP 2024**
 
-<span class='anchor' id='honors-and-awards'></span>
+<span id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2023.10* Champion of the 11th International Dialog System Technology Challenge (DSTC 11). 
 
-<span class='anchor' id='educations'></span>
+<span id='educations'></span>
 # 📖 Educations
 - *2021.09 - present*, Ph.D. Student, School of Integrated Circuits(School of Information Science and Electronic Engineering), Shanghai Jiao Tong University, Shanghai.
 - *2017.09 - 2021.06*, Undergraduate, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai.
