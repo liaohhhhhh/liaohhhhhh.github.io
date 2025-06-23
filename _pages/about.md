@@ -17,42 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I’m currently a Ph.D. student at the School of Integrated Circuits (School of Information Science and Electronic Engineering), Shanghai Jiao Tong University, under the supervision of <a href="https://yuwangsjtu.github.io/" target="_blank">Assoc. Prof. Yu Wang</a>. I received my B.E. in Information Engineering from the School of Electronic Information and Electrical Engineering, also at Shanghai Jiao Tong University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+🔬 I’m passionate about combining AI with real-world applications, especially in medical and clinical domains. My research focuses on:
 
+•	Large Language Models (LLMs)
+
+•	Clinical Natural Language Processing (Clinical NLP)
+
+📚 You can find my publications on <a href="https://scholar.google.com/citations?user=ErjimggAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 Three papers accepted by ACL 2025 Main Conference!
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents](https://arxiv.org/pdf/2410.17657), **Yu Liao**, S Jiang, Y Wang, Y Wang, **ACL 2025**
+- EvolveBench: A Comprehensive Benchmark for Assessing Temporal Awareness in LLMs on Evolving Knowledge, Z Zhu, **Yusheng Liao**, Z Chen, Y Wang, Y Guan, Y Wang, Y Wang, **ACL 2025**
+- [Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications](https://arxiv.org/pdf/2501.02460), Z Chen, **Yusheng Liao**, S Jiang, P Wang, Y Guo, Y Wang, Y Wang, **ACL 2025**
+- [Fine-tuning with Reserved Majority for Noise Reduction](https://openreview.net/pdf?id=ZV7CLf0RHK), S Jiang, **Yusheng Liao**, Y Zhang, Y Wang, Y Wang, **ICLR 2025**
+- [MedCare: Advancing Medical LLMs through Decoupling Clinical Alignment and Knowledge Aggregation](https://aclanthology.org/2024.findings-emnlp.619/), **Yusheng Liao**, S Jiang, Y Wang, Y Wang, **Findings of EMNLP 2024**
+- [TAIA: Large Language Models are Out-of-Distribution Data Learners](https://openreview.net/pdf?id=XxSME6GE1G), S Jiang, **Yusheng Liao**, Y Zhang, Y Wang, Y Wang, **NeurIPS 2024**
+- [Leveraging Diverse Modeling Contexts with Collaborating Learning for Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/10476658), **Yusheng Liao**, Y Wang, Y Wang, **IEEE/ACM TASLP 2024**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Champion of the 11th International Dialog System Technology Challenge (DSTC 11). 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.09 - present*, Ph.D. Student, School of Integrated Circuits(School of Information Science and Electronic Engineering), Shanghai Jiao Tong University, Shanghai.
+- *2017.09 - 2021.06*, Undergraduate, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai.
