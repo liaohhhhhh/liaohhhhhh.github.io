@@ -39,8 +39,12 @@ I’m currently a Ph.D. student at the School of Integrated Circuits (School of 
 - [Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications](https://arxiv.org/pdf/2501.02460), Z Chen, **Yusheng Liao**, S Jiang, P Wang, Y Guo, Y Wang, Y Wang, **ACL 2025**
 - [Fine-tuning with Reserved Majority for Noise Reduction](https://openreview.net/pdf?id=ZV7CLf0RHK), S Jiang, **Yusheng Liao**, Y Zhang, Y Wang, Y Wang, **ICLR 2025**
 - [MedCare: Advancing Medical LLMs through Decoupling Clinical Alignment and Knowledge Aggregation](https://aclanthology.org/2024.findings-emnlp.619/), **Yusheng Liao**, S Jiang, Y Wang, Y Wang, **Findings of EMNLP 2024**
+- [RA2FD: Distilling Faithfulness into Efficient Dialogue Systems](https://aclanthology.org/2024.emnlp-main.685/), Z Zhu, **Yusheng Liao**, C Xu, Y Guan, Y Wang, Y Wang, **EMNLP 2024**
 - [TAIA: Large Language Models are Out-of-Distribution Data Learners](https://openreview.net/pdf?id=XxSME6GE1G), S Jiang, **Yusheng Liao**, Y Zhang, Y Wang, Y Wang, **NeurIPS 2024**
+- [MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception](https://aclanthology.org/2024.acl-long.498/), Y Wang, **Yusheng Liao**, H Liu, H Liu, Y Wang, Y Wang, **ACL 2024**
 - [Leveraging Diverse Modeling Contexts with Collaborating Learning for Neural Machine Translation](https://ieeexplore.ieee.org/abstract/document/10476658), **Yusheng Liao**, Y Wang, Y Wang, **IEEE/ACM TASLP 2024**
+- [Self-improvement of non-autoregressive model via sequence-level distillation](https://aclanthology.org/2023.emnlp-main.878.pdf), **Yusheng Liao**, S Jiang, Y Li, Y Wang, Y Wang, **EMNLP 2023**
+- [Contrastive Learning Based ASR Robust Knowledge Selection For Spoken Dialogue System](https://www.isca-archive.org/interspeech_2023/zhu23e_interspeech.pdf), Z Zhu, **Yusheng Liao**, Y Wang, Y Guan, **Interspeech 2023**
 
 <span id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
